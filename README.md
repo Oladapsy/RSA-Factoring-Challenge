@@ -1,1 +1,0 @@
-# RSA factorizing challenge. :):
